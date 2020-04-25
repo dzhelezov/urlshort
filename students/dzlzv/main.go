@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/dzhelezov/urlshort/students/dzlzv/handler"
+	urlshort "github.com/dzhelezov/urlshort/students/dzlzv/handler"
 )
 
 func main() {
