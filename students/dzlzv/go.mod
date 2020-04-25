@@ -1,3 +1,3 @@
-module github.com/dzlzv/urlshort/dzlzv
+module github.com/dzhelezov/urlshort/students/dzlzv/main
 
 go 1.14
